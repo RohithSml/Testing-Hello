@@ -1,6 +1,7 @@
-function addNumbers(a, b) {
-    return a + b;
+function multiply(a, b) {
+    return a * b;
 }
+
 
 
 Test anoth function here and its seems to be ok
