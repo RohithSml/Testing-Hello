@@ -2,6 +2,11 @@ function multiply(a, b) {
     return a * b;
 }
 
+function subtract(a,b){
+    return a-b;
+}
 
 
-Test anoth function here and its seems to be ok
+
+Test anoth function here and its seems to be ok  and hey and it should be ok
+
