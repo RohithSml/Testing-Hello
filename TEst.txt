@@ -1,8 +1,10 @@
 function multiply(a, b) {
+    print("TEst HAHA")
     return a * b;
 }
 
 function subtract(a,b){
+    print(1)
     return a-b;
 }
 
